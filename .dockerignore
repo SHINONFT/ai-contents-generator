@@ -1,0 +1,17 @@
+Dockerfile
+.dockerignore
+node_modules
+npm-debug.log
+.next
+.git
+.gitignore
+README.md
+*.md
+.env
+.env.*
+!.env.example
+__tests__
+tests
+playwright.config.ts
+jest.config.js
+jest.setup.js
